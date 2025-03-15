@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**MOD NAME**
+> Provide the name of the mod
+
+
 **YOUR SUGGESTION**
 > Please provide a clear description of your idea. The more specific and concrete you are the more likely I am to truly understand your idea.
 

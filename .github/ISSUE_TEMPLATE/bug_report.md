@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **MOD NAME**
-> Provide the name of the mod (can also be done via the Tags)
+> Provide the name of the mod
 
 
 **THE ISSUE**
