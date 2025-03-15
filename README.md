@@ -9,8 +9,8 @@ If you have any issues or want to suggest improvements for a mod that is _not_ a
 _**Note:** Please rememeber to let me know which mod the issue concerns._
 
 ### Mods covered by this page
-|  |  |  |  |
-|--|--|--|--|
+|  |  |
+|--|--|
 | FS25_AdditionalFilltypes | FS25_PortableWorkshop | 
 | FS25_CoalMine | [Refillable IBC Tank (FS25_RefillableIBCTank)](https://www.farming-simulator.com/mod.php?mod_id=303454&title=fs2025) | 
 | FS25_CrushableLimestones | FS25_SeasonalPrices | 
