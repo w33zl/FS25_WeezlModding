@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**MOD NAME**
+> Provide the name of the mod (can also be done via the Tags)
+
+
 **THE ISSUE**
 > Please provide a clear description of the issue:
 
