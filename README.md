@@ -2,7 +2,9 @@
 
 If you have any issues or want to suggest improvements for a mod that is _not_ available on [my main GitHub page](https://github.com/w33zl), you can use the links below:
 
-* [](https://github.com/w33zl)
+* [Known issues](https://github.com/w33zl/FS25_WeezlModding/issues)
+* [Bug report](https://github.com/w33zl/FS25_WeezlModding/issues/new?template=bug_report.md)
+* [Feature request](https://github.com/w33zl/FS25_WeezlModding/issues/new?template=feature_request.md)
 
 _**Note:** Please rememeber to let me know which mod the issue concerns._
 
