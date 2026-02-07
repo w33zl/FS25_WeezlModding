@@ -11,18 +11,20 @@ _**Note:** Please rememeber to let me know which mod the issue concerns._
 ### Mods covered by this page
 |  |  |
 |--|--|
-| FS25_AdditionalFilltypes | FS25_PortableWorkshop | 
-| FS25_CoalMine | [Refillable IBC Tank (FS25_RefillableIBCTank)](https://www.farming-simulator.com/mod.php?mod_id=303454&title=fs2025) | 
+| [FS25_EnhancedColorSelection](https://github.com/w33zl/FS25_EnhancedColorSelection) | FS25_PortableWorkshop | 
+| [FS25_CoalMine](https://github.com/w33zl/FS25_CoalMine) | [Refillable IBC Tank (FS25_RefillableIBCTank)](https://www.farming-simulator.com/mod.php?mod_id=303454&title=fs2025) | 
 | FS25_CrushableLimestones | FS25_SeasonalPrices | 
-| FS25_DestructableObjects | FS25_TidyShop | 
-| FS25_GravelProduction | [TidyShop: ModTitles (FS25_TidyShop_ModTitles)](https://www.farming-simulator.com/mod.php?mod_id=310789&title=fs2025) | 
+| [FS25_UnrestrictedPlacement](https://github.com/w33zl/FS25_UnrestrictedPlacement) | FS25_TidyShop | 
+| [FS25_GravelProduction](https://www.farming-simulator.com/mod.php?mod_id=313499&title=fs2025) | [TidyShop: ModTitles (FS25_TidyShop_ModTitles)](https://www.farming-simulator.com/mod.php?mod_id=310789&title=fs2025) | 
 | [Increased Fuel Prices (FS25_HighFuelPrices)](https://www.farming-simulator.com/mod.php?mod_id=303453&title=fs2025) | FS25_UniversalGameTweaks | 
-| FS25_ImprovedExhaustEffects | FS25_VehicleWeightInfo | 
+| [FS25_ImprovedExhaustEffects](https://github.com/w33zl/FS25_ImprovedExhaustEffects) | FS25_VehicleWeightInfo | 
 | Limestone Production (FS25_LimestoneProduction) | FS25_WeatherEvents | 
-| FS25_LimestoneQuarry |  | 
+| [FS25_LimestoneQuarry](https://w33zl.itch.io/fs25-limestone-quarry) |  | 
 | [Portable Service Kit (FS25_MobileServiceKit)](https://www.farming-simulator.com/mod.php?mod_id=309549&title=fs2025) |  | 
 | FS25_ModdersWorkbench |  | 
-| FS25_NoExoticCrops |  | 
+| [FS25_NoExoticCrops](https://github.com/w33zl/FS25_NoExoticCrops) |  | 
+
+
 
 
 
