@@ -22,11 +22,10 @@ body:
       label: Did you play in multiplayer mode?
       multiple: true      
       options:
-        - Single Player
-        - Multiplayer
-        - Multiplayer (Host)
-        - Multiplayer (Dedicated Server)
-        
+        - No, single player
+        - Yes, multiplayer
+        - Yes, multiplayer (as host)
+        - Yes, multiplayer (dedicated server)
     validations:
       required: true
 
