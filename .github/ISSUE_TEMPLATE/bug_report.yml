@@ -19,8 +19,7 @@ body:
   - type: dropdown
     id: mode
     attributes:
-      label: Game Mode
-      description: What game mode are you playing on? Single Player or Multiplayer?
+      label: Did you play in multiplayer mode?
       multiple: true      
       options:
         - Single Player
