@@ -17,6 +17,7 @@ body:
     attributes:
       label: Game Mode
       description: What game mode are you playing on? Single Player or Multiplayer?
+      multiple: true      
       options:
         - Single Player
         - Multiplayer
@@ -25,7 +26,6 @@ body:
         
     validations:
       required: true
-      multiple: yes
 
   - type: checkboxes
     id: checked-issues
