@@ -1,5 +1,6 @@
-name: Bug report
+name: 🐞 Bug report
 description: Report an issue that should be fixed
+title: "[BUG] <title>"
 labels: ["bug"]
 body:
   - type: input
@@ -31,7 +32,7 @@ body:
       description: By submitting this issue, you agree to follow our [Code of Conduct]
       options:
         - label: Yes, I have checked the known issues and my problem is not listed there.
-      required: true
+          required: true
       
 
   - type: textarea
