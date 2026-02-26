@@ -23,7 +23,7 @@ body:
         - Multiplayer
         - Multiplayer (Host)
         - Multiplayer (Dedicated Server)
-          default: 0
+        default: 0
     validations:
       required: true
 
