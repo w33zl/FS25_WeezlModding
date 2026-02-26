@@ -53,9 +53,9 @@ body:
   - type: textarea
     id: screenshot-or-link
     attributes:
-      label: Screenshot and/or share link
-      description: Run `/share` to get a share link, or attach a screenshot
-      placeholder: Paste link or drag and drop screenshot here
+      label: Additional information
+      description: Provide log.txt, screenshots or any other complementary information that could be useful for me
+      placeholder: Paste link or drag and drop screenshot/log file here
     validations:
       required: false
 
