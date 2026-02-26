@@ -28,10 +28,11 @@ body:
     id: checked-issues
     attributes:
       label: Did you check the known issues before submitting this bug report?
-      options:
-        - Yes, I have checked the known issues and my problem is not listed there.
-        - No, I have not checked the known issues.
       description: By submitting this issue, you agree to follow our [Code of Conduct]
+      options:
+        - label: Yes, I have checked the known issues and my problem is not listed there.
+      required: true
+      
 
   - type: textarea
     id: description
