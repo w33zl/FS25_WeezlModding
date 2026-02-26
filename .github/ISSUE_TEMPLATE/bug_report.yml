@@ -17,11 +17,13 @@ body:
     attributes:
       label: Game Mode
       description: What game mode are you playing on? Single Player or Multiplayer?
+      multiple: true      
       options:
         - Single Player
         - Multiplayer
         - Multiplayer (Host)
         - Multiplayer (Dedicated Server)
+        
     validations:
       required: true
 
