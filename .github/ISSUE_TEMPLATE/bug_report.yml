@@ -25,7 +25,7 @@ body:
         
     validations:
       required: true
-      default: -1
+      multiple: yes
 
   - type: checkboxes
     id: checked-issues
