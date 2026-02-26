@@ -18,7 +18,6 @@ body:
       label: Game Mode
       description: What game mode are you playing on? Single Player or Multiplayer?
       options:
-        - ""
         - Single Player
         - Multiplayer
         - Multiplayer (Host)
