@@ -1,0 +1,62 @@
+name: Bug report
+description: Report an issue that should be fixed
+labels: ["bug"]
+body:
+  - type: input
+    id: mod
+    attributes:
+      label: Mod Name
+      description: Provide the name of the mod you are experiencing issues with
+      placeholder: e.g., Limestone Quarry or FS25_CoalMine
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the bug you encountered, please describe as clear as possible
+      placeholder: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshot-or-link
+    attributes:
+      label: Screenshot and/or share link
+      description: Run `/share` to get a share link, or attach a screenshot
+      placeholder: Paste link or drag and drop screenshot here
+    validations:
+      required: false
+
+  - type: input
+    id: game-version
+    attributes:
+      label: Game Version
+      description: Which version of the game are you playing on?
+      placeholder: e.g., v1.16
+    validations:
+      required: false
+
+  - type: input
+    id: mod-version
+    attributes:
+      label: Mod Version
+      description: Which version of the mod are you using?
+      placeholder: e.g., v1.0.0.0
+    validations:
+      required: false
+
+
