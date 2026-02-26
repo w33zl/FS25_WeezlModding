@@ -29,16 +29,6 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
-    id: checked-issues
-    attributes:
-      label: Did you check the known issues before submitting this bug report?
-      description: By submitting this issue, you agree to follow our [Code of Conduct]
-      options:
-        - label: Yes, I have checked the known issues and my problem is not listed there.
-          required: true
-      
-
   - type: textarea
     id: description
     attributes:
