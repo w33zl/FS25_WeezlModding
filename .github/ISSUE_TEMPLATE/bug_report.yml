@@ -11,11 +11,33 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Game Mode
+      description: What game mode are you playing on? Single Player or Multiplayer?
+      options:
+        - Single Player
+        - Multiplayer
+        - Multiplayer (Host)
+        - Multiplayer (Dedicated Server)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checked-issues
+    attributes:
+      label: Did you check the known issues before submitting this bug report?
+      options:
+        - Yes, I have checked the known issues and my problem is not listed there.
+        - No, I have not checked the known issues.
+      description: By submitting this issue, you agree to follow our [Code of Conduct]
+
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: Describe the bug you encountered, please describe as clear as possible
+      description: Describe the bug you encountered, please be as descriptive as possible
       placeholder: What happened?
     validations:
       required: true
