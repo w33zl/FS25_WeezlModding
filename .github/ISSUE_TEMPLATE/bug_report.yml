@@ -5,8 +5,7 @@ labels: ["bug"]
 body:
   - type: markdown
     attributes:
-      value: "Thanks for taking the time to fill out this bug report! ||
-        Before submitting, please check [existing issues](https://github.com/w33zl/FS25_WeezlModding/issues) to avoid creating duplicates. "
+      value: | Thanks for taking the time to fill out this bug report! Before submitting, please check [existing issues](https://github.com/w33zl/FS25_WeezlModding/issues) to avoid creating duplicates. "
   - type: input
     id: mod
     attributes:
